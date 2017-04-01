@@ -30,6 +30,7 @@
     flex-wrap: wrap;
     flex-direction: column;
     height: 100vh;
+    border: 5px solid gold;
 }
 .box {
     flex-basis: 250px;
